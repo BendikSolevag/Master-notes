@@ -2,6 +2,7 @@
 # Predicting Gene Expression Through Causal Structure
 
 Master thesis by Bendik Solevåg
+
 Supervisors: Ramin Hasibi & Tom Michoel 
 
 ## Introduction, background and goals
