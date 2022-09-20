@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Biology/Blood-based multi-tissue gene expression inference with Bayesian ridge regression.md",
+            "file": "Thesis Description.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Biology/Blood-based multi-tissue gene expression inference with Bayesian ridge regression.md",
+                "file": "Thesis Description.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Biology/Blood-based multi-tissue gene expression inference with Bayesian ridge regression.md",
+                "file": "Thesis Description.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Biology/Blood-based multi-tissue gene expression inference with Bayesian ridge regression.md"
+                "file": "Thesis Description.md"
               }
             }
           }
@@ -130,12 +130,12 @@
   },
   "active": "01ba15028f6a68f1",
   "lastOpenFiles": [
+    "README.md",
     "Notes/Biology/Predicting tissue-specific gene expression from whole blood transcriptome.md",
     "Notes/Biology/Blood-based multi-tissue gene expression inference with Bayesian ridge regression.md",
     "Notes/Pointer Graph Networks.md",
     "Notes/Gradient Estimation with Stochastic Softmax Tricks.md",
     "Notes/Deep Sets.md",
-    "README.md",
     "Notes/23.08 - Brainstorm variable length sequence input.md"
   ]
 }
