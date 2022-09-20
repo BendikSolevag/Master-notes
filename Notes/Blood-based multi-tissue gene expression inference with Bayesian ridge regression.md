@@ -1,0 +1,6 @@
+# Blood-based multi-tissue gene expression inference with Bayesian ridge regression
+https://academic.oup.com/bioinformatics/article/36/12/3788/5819142
+
+Gene expression profiling can explain biological phenotypes by depicting transcriptional changes of tissues. Gene expression level of an affected tissue may be inferred from blood, a readily accessible specimen material in clinical field. The gene expression in blood is reported to be moderately correlated with that in brain tissues, and weakly correlated with that in immune and muscle tissues.
+
+Gene expression inference in tissues usually requires prior knowledge of genotype-transcriptome associations. The performance of imputation relies largely on the completeness of the expression quantitative trait locus (eQTL) reference resource. Because these methods explicitly require genomic features (e.g. SNP genotype and eQTLs) as part of the predictors to infer unmeasured gene expression in target tissues, genotyping patients must be done before gene expression inference.

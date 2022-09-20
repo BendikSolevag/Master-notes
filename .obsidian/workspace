@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "0acd87de6668c35b",
+    "type": "split",
+    "children": [
+      {
+        "id": "01ba15028f6a68f1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Predicting tissue-specific gene expression from whole blood transcriptome.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e9bac7e65bbc3e3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0c51af196db5c90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af2553fbb8e7b6eb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "32da8b0936b4d8db",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "89c06f75facbcea0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 280.5
+  },
+  "right": {
+    "id": "630376de6ec4f4b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "89af222303e006db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79aba5ea09d0c634",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/Predicting tissue-specific gene expression from whole blood transcriptome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c4faf28e2ef96486",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes/Predicting tissue-specific gene expression from whole blood transcriptome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6bc3b53dbb6b6093",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b12f558c9a531714",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes/Predicting tissue-specific gene expression from whole blood transcriptome.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "01ba15028f6a68f1",
+  "lastOpenFiles": [
+    "README.md",
+    "Notes/Predicting tissue-specific gene expression from whole blood transcriptome.md",
+    "Notes/Blood-based multi-tissue gene expression inference with Bayesian ridge regression.md",
+    "Notes/Deep Sets.md",
+    "Notes/Gradient Estimation with Stochastic Softmax Tricks.md",
+    "Notes/Pointer Graph Networks.md",
+    "Notes/23.08 - Brainstorm variable length sequence input.md"
+  ]
+}
