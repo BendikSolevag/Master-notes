@@ -1,5 +1,5 @@
-# Blood-based multi-tissue gene expression inference with Bayesian ridge regression
 https://academic.oup.com/bioinformatics/article/36/12/3788/5819142
+# Blood-based multi-tissue gene expression inference with Bayesian ridge regression
 
 Gene expression profiling can explain biological phenotypes by depicting transcriptional changes of tissues. Gene expression level of an affected tissue may be inferred from blood, a readily accessible specimen material in clinical field. The gene expression in blood is reported to be moderately correlated with that in brain tissues, and weakly correlated with that in immune and muscle tissues.
 
