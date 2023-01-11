@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "3f712e179e029e0d",
+        "id": "264e28f2dc92402f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "optim8.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "optim8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "optim8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "optim8.md"
               }
             }
           }
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "af2553fbb8e7b6eb",
+  "active": "264e28f2dc92402f",
   "lastOpenFiles": [
+    "Notes/Neural Networks/Gradient Estimation with Stochastic Softmax Tricks.md",
+    "Notes/Neural Networks/SLAPS.md",
+    "Notes/Neural Networks/Pointer Graph Networks.md",
+    "Notes/Neural Networks/Deep Sets.md",
+    "Notes/Biology/Predicting tissue-specific gene expression from whole blood transcriptome.md",
     "Notes/Biology/Findr - Efficient and accurate causal inference with hidden confounders from genometranscriptome variation data.md",
     "Notes/Biology/Blood-based multi-tissue gene expression inference with Bayesian ridge regression.md",
-    "Notes/Biology/Predicting tissue-specific gene expression from whole blood transcriptome.md",
-    "Notes/Neural Networks/Pointer Graph Networks.md",
-    "handleliste.md",
-    "Notes/Neural Networks/Deep Sets.md",
-    "Notes/Neural Networks/Gradient Estimation with Stochastic Softmax Tricks.md",
+    "optim.md",
     "README.md",
-    "README.md",
-    "Notes/23.08 - Brainstorm variable length sequence input.md"
+    "handleliste.md"
   ]
 }

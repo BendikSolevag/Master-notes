@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "0acd87de6668c35b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f86d66e693f74e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "264e28f2dc92402f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "dba7b206b0addff2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.0"
+              }
+            }
+          },
+          {
+            "id": "1c9fd3695ee84107",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "fbd458815a01af0e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
+          },
+          {
+            "id": "f927217345d2323a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "9809a5109506e053",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Neural Networks/Teacher Forcing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b92fd6a66b2a7da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Neural Networks/SAGEconv.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b7786837cdd31ed0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Neural Networks/Principal Neighbourhood Aggregation for Graph Nets.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f04bbeaa3c49bf2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e9bac7e65bbc3e3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0c51af196db5c90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af2553fbb8e7b6eb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "32da8b0936b4d8db",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "89c06f75facbcea0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 470.5
+  },
+  "right": {
+    "id": "630376de6ec4f4b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "89af222303e006db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79aba5ea09d0c634",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c4faf28e2ef96486",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6bc3b53dbb6b6093",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b12f558c9a531714",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "af2553fbb8e7b6eb",
+  "lastOpenFiles": [
+    "Øving 12.md",
+    "Optim9.md",
+    "optim8.md",
+    "optim.md",
+    "Notes/Neural Networks/Teacher Forcing.md",
+    "Notes/Neural Networks/SLAPS.md",
+    "Notes/Neural Networks/SAGEconv.md",
+    "Notes/Neural Networks/Principal Neighbourhood Aggregation for Graph Nets.md",
+    "Notes/Neural Networks/Pointer Graph Networks.md",
+    "Notes/Neural Networks/Gradient Estimation with Stochastic Softmax Tricks.md"
+  ]
+}
